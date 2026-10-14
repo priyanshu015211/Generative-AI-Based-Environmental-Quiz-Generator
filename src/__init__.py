@@ -1,0 +1,1 @@
+"""EcoQuiz AI prototype modules."""
