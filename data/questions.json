@@ -1,4 +1,1188 @@
-},
+[
+  {
+    "topic": "Climate Change",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which gas is a major contributor to the enhanced greenhouse effect from human activities?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Argon",
+      "Neon"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "Carbon dioxide released by burning fossil fuels and land-use change contributes to the enhanced greenhouse effect."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "Which action directly reduces emissions from electricity generation when replacing a coal-fired source?",
+    "options": [
+      "Using wind power",
+      "Increasing coal use",
+      "Burning more diesel",
+      "Leaving lights on"
+    ],
+    "answer": "Using wind power",
+    "explanation": "Wind power generates electricity without direct fuel-combustion emissions during operation."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "What does climate mitigation primarily aim to do?",
+    "options": [
+      "Reduce or prevent greenhouse-gas emissions and increase removals",
+      "Only respond after a flood",
+      "Increase fossil-fuel consumption",
+      "Measure daily weather only"
+    ],
+    "answer": "Reduce or prevent greenhouse-gas emissions and increase removals",
+    "explanation": "Mitigation addresses the causes of climate change; adaptation reduces harm from its impacts."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Weather and climate mean exactly the same thing.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Weather describes short-term conditions; climate describes patterns over longer periods."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Reducing energy waste can help reduce greenhouse-gas emissions when energy comes from fossil fuels.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Using less energy can reduce demand and associated emissions, depending on the energy source."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A college wants to reduce electricity-related emissions. Which is a sensible first step?",
+    "options": [
+      "Audit energy use and improve efficiency",
+      "Keep all equipment running overnight",
+      "Remove all windows",
+      "Increase unnecessary lighting"
+    ],
+    "answer": "Audit energy use and improve efficiency",
+    "explanation": "An energy audit helps identify avoidable consumption and practical efficiency measures."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Biodiversity refers to the variety of what?",
+    "options": [
+      "Life at genetic, species, and ecosystem levels",
+      "Only large mammals",
+      "Only trees in cities",
+      "Only domesticated animals"
+    ],
+    "answer": "Life at genetic, species, and ecosystem levels",
+    "explanation": "Biodiversity includes variation within species, between species, and among ecosystems."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "Which is a common benefit of protecting native habitats?",
+    "options": [
+      "Supporting native species and ecosystem functions",
+      "Guaranteeing no natural disasters",
+      "Eliminating all competition",
+      "Stopping all seasonal change"
+    ],
+    "answer": "Supporting native species and ecosystem functions",
+    "explanation": "Native habitats provide food, shelter, and ecological functions for local species."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Why can habitat fragmentation threaten wildlife populations?",
+    "options": [
+      "It can isolate populations and restrict movement",
+      "It always increases genetic diversity",
+      "It removes every invasive species",
+      "It guarantees larger habitats"
+    ],
+    "answer": "It can isolate populations and restrict movement",
+    "explanation": "Fragmentation can reduce connectivity, access to resources, and gene flow."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Pollinators can play an important role in the reproduction of many flowering plants.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Bees, butterflies, birds, and other animals pollinate many flowering plants."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "An ecosystem contains only living organisms and no non-living components.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Ecosystems include organisms and abiotic components such as water, soil, and light."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A campus wants to support local biodiversity. Which project is most suitable?",
+    "options": [
+      "Plant a variety of locally appropriate native species",
+      "Replace all vegetation with concrete",
+      "Remove every insect",
+      "Introduce any exotic species without assessment"
+    ],
+    "answer": "Plant a variety of locally appropriate native species",
+    "explanation": "Appropriate native planting can provide food and habitat for local organisms."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which action is generally best before recycling a product?",
+    "options": [
+      "Reduce unnecessary use first",
+      "Buy more disposable products",
+      "Mix all waste together",
+      "Burn it in the open"
+    ],
+    "answer": "Reduce unnecessary use first",
+    "explanation": "Waste prevention is generally preferable to managing waste after it is created."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "Which item is commonly suitable for composting in a well-managed compost system?",
+    "options": [
+      "Fruit and vegetable scraps",
+      "Batteries",
+      "Paint thinner",
+      "Broken electronics"
+    ],
+    "answer": "Fruit and vegetable scraps",
+    "explanation": "Many food scraps can be composted; batteries and electronics need specialized handling."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Why should batteries be kept out of ordinary mixed waste where separate collection exists?",
+    "options": [
+      "They may contain hazardous materials and can create fire risks",
+      "They always biodegrade overnight",
+      "They improve compost quality",
+      "They are harmless in every landfill"
+    ],
+    "answer": "They may contain hazardous materials and can create fire risks",
+    "explanation": "Batteries should be handled through suitable collection and recycling systems."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Reusing an item can help reduce the need to purchase a replacement.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Reuse extends product life and may reduce material and energy demand."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "All materials labelled recyclable are accepted by every local recycling facility.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Accepted materials vary by local collection rules and facility capability."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A cafeteria has many food scraps. What is a reasonable waste-management action?",
+    "options": [
+      "Separate food scraps for an appropriate composting system",
+      "Mix food scraps with batteries",
+      "Burn scraps indoors",
+      "Dump scraps into a storm drain"
+    ],
+    "answer": "Separate food scraps for an appropriate composting system",
+    "explanation": "Segregation enables composting where facilities and safe processes are available."
+  },
+  {
+    "topic": "Pollution",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which of these is a common source of urban air pollution?",
+    "options": [
+      "Vehicle exhaust",
+      "Solar panels generating electricity",
+      "Hand-washing with clean water",
+      "Tree shade"
+    ],
+    "answer": "Vehicle exhaust",
+    "explanation": "Road transport can emit pollutants such as nitrogen oxides and particulate matter."
+  },
+  {
+    "topic": "Pollution",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "What is one potential effect of excess nutrient runoff into lakes?",
+    "options": [
+      "Eutrophication and algal blooms",
+      "Permanent purification of water",
+      "Instant removal of all bacteria",
+      "Guaranteed increase in drinking-water quality"
+    ],
+    "answer": "Eutrophication and algal blooms",
+    "explanation": "Excess nitrogen and phosphorus can promote algal growth and reduce oxygen levels."
+  },
+  {
+    "topic": "Pollution",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Why can fine particulate matter be a health concern?",
+    "options": [
+      "Small particles can penetrate deep into the respiratory system",
+      "It is always visible and easy to avoid",
+      "It only affects building paint",
+      "It contains no inhalable material"
+    ],
+    "answer": "Small particles can penetrate deep into the respiratory system",
+    "explanation": "Fine particles can reach deep parts of the lungs; health effects depend on exposure and composition."
+  },
+  {
+    "topic": "Pollution",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Noise pollution can affect human well-being.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Excessive noise can disturb sleep, communication, and well-being."
+  },
+  {
+    "topic": "Pollution",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Diluting a pollutant always makes its environmental impact disappear.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Dilution does not remove the pollutant and may still leave harmful concentrations or effects."
+  },
+  {
+    "topic": "Pollution",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "Residents notice waste being dumped into a local stream. What is a responsible response?",
+    "options": [
+      "Report it to the appropriate local authority and avoid contact",
+      "Encourage more dumping",
+      "Use the water without checking safety",
+      "Push the waste downstream"
+    ],
+    "answer": "Report it to the appropriate local authority and avoid contact",
+    "explanation": "Reporting suspected pollution and avoiding exposure are safer responses."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which is a renewable energy source?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Diesel",
+      "Natural gas"
+    ],
+    "answer": "Solar energy",
+    "explanation": "Solar energy is replenished by sunlight."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "Why can combining solar power with energy storage be useful?",
+    "options": [
+      "Storage can supply energy when sunlight is unavailable",
+      "Storage makes sunlight constant at night",
+      "It eliminates every grid requirement",
+      "It means energy is never lost"
+    ],
+    "answer": "Storage can supply energy when sunlight is unavailable",
+    "explanation": "Storage can shift some electricity from high-generation periods to periods with less sunlight."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Which factor is important when assessing the environmental impact of a renewable-energy project?",
+    "options": [
+      "Its full life cycle, including materials, land, and end-of-life management",
+      "Only its colour",
+      "Only its name",
+      "Ignoring construction and disposal"
+    ],
+    "answer": "Its full life cycle, including materials, land, and end-of-life management",
+    "explanation": "Life-cycle assessment considers impacts across stages, not only operation."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Wind turbines generate electricity by harnessing wind energy.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Wind turns turbine blades, driving a generator."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Renewable energy technologies have no environmental impacts at any stage.",
+    "options": [],
+    "answer": "False",
+    "explanation": "They can have impacts from materials, manufacturing, land use, operation, and disposal."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A school wants to explore solar power. What should it do first?",
+    "options": [
+      "Assess roof suitability, energy use, costs, and safety",
+      "Install panels without checking the roof",
+      "Ignore electricity consumption",
+      "Remove all electrical protection"
+    ],
+    "answer": "Assess roof suitability, energy use, costs, and safety",
+    "explanation": "A feasibility assessment helps determine whether a system is appropriate and safe."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which action can reduce household water waste?",
+    "options": [
+      "Repairing leaking taps",
+      "Leaving taps running",
+      "Washing pavements with a hose daily",
+      "Ignoring pipe leaks"
+    ],
+    "answer": "Repairing leaking taps",
+    "explanation": "Fixing leaks prevents water loss."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "What is rainwater harvesting?",
+    "options": [
+      "Collecting and storing rainwater for suitable uses",
+      "Adding salt to drinking water",
+      "Pumping all groundwater away",
+      "Releasing sewage into rivers"
+    ],
+    "answer": "Collecting and storing rainwater for suitable uses",
+    "explanation": "Collected rainwater can be used for suitable non-potable purposes or treated where appropriate."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Why is groundwater extraction above the recharge rate unsustainable over time?",
+    "options": [
+      "The aquifer water level can decline",
+      "It guarantees more rainfall",
+      "It permanently increases recharge",
+      "It removes all water-quality risks"
+    ],
+    "answer": "The aquifer water level can decline",
+    "explanation": "If withdrawals exceed replenishment, stored groundwater can decrease."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Turning off the tap while brushing can reduce water use.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Avoiding unnecessary running water reduces consumption."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Water that looks clear is always safe to drink without treatment.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Some biological and chemical contaminants are not visible."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A college garden uses large amounts of water in hot afternoons. What is a practical improvement to investigate?",
+    "options": [
+      "Water at cooler times and use efficient irrigation",
+      "Increase evaporation by spraying at noon",
+      "Water paved areas",
+      "Ignore leaks in irrigation pipes"
+    ],
+    "answer": "Water at cooler times and use efficient irrigation",
+    "explanation": "Timing and efficient irrigation can reduce evaporation and unnecessary water use."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Sustainable development aims to meet present needs while doing what?",
+    "options": [
+      "Not compromising future generations' ability to meet their needs",
+      "Using every resource immediately",
+      "Ignoring social well-being",
+      "Preventing all technological change"
+    ],
+    "answer": "Not compromising future generations' ability to meet their needs",
+    "explanation": "The widely used definition balances present needs with the needs of future generations."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "Which is an example of a circular-economy practice?",
+    "options": [
+      "Repairing and reusing products to extend their life",
+      "Discarding products after one use whenever possible",
+      "Mixing reusable materials with hazardous waste",
+      "Designing products that cannot be repaired"
+    ],
+    "answer": "Repairing and reusing products to extend their life",
+    "explanation": "Circular approaches aim to keep products and materials in use and reduce waste."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Why should sustainability decisions consider environmental, social, and economic dimensions together?",
+    "options": [
+      "A decision may create trade-offs across these dimensions",
+      "They are always identical",
+      "Only economic cost ever matters",
+      "Environmental impacts never affect people"
+    ],
+    "answer": "A decision may create trade-offs across these dimensions",
+    "explanation": "Sustainable development considers connected outcomes and trade-offs across dimensions."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Public transport can reduce per-person transport emissions when it replaces individual car trips.",
+    "options": [],
+    "answer": "True",
+    "explanation": "The impact depends on occupancy, vehicle type, and the trips replaced."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "A product's environmental impact is determined only by its use phase.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Materials, manufacturing, transport, use, and disposal can all contribute."
+  },
+  {
+    "topic": "Sustainable Development",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A college wants to reduce single-use waste during events. Which measure is a reasonable option?",
+    "options": [
+      "Provide reusable serviceware and a return or washing system",
+      "Give every attendee extra disposable items",
+      "Mix all waste in one bin",
+      "Encourage littering"
+    ],
+    "answer": "Provide reusable serviceware and a return or washing system",
+    "explanation": "A well-managed reuse system can reduce disposable waste."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which activity is a major source of human-caused carbon dioxide emissions?",
+    "options": [
+      "Burning coal, oil, and gas",
+      "Using a bicycle",
+      "Planting native trees",
+      "Collecting rainwater"
+    ],
+    "answer": "Burning coal, oil, and gas",
+    "explanation": "Fossil-fuel combustion releases carbon dioxide."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Which measure is an example of climate adaptation rather than mitigation?",
+    "options": [
+      "Designing flood-resilient drainage systems",
+      "Replacing coal electricity with wind power",
+      "Reducing fuel use in vehicles",
+      "Capturing carbon dioxide at an industrial source"
+    ],
+    "answer": "Designing flood-resilient drainage systems",
+    "explanation": "Adaptation reduces harm from climate impacts; mitigation reduces emissions or increases removals."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "The greenhouse effect is a natural process, but human activities can strengthen it.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Human-added greenhouse gases trap more heat in the atmosphere."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "One unusually cold day disproves the long-term trend of global warming.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Climate trends are assessed over long periods, not from one day's weather."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Climate mitigation and climate adaptation mean exactly the same thing.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Mitigation addresses causes; adaptation addresses risks and impacts."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A student wants to lower the emissions from a short daily commute. Which option is usually a sensible alternative to travelling alone by car?",
+    "options": [
+      "Walk, cycle, or use suitable public transport",
+      "Drive a larger vehicle alone",
+      "Leave the engine running while waiting",
+      "Make several unnecessary trips"
+    ],
+    "answer": "Walk, cycle, or use suitable public transport",
+    "explanation": "Choosing lower-emission travel options can reduce transport emissions."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A campus building becomes dangerously hot during heatwaves. Which action best prepares people for future heat events?",
+    "options": [
+      "Create a heat-safety plan and improve shading and ventilation",
+      "Remove all shaded areas",
+      "Ignore heat warnings",
+      "Keep outdoor activities unchanged during extreme heat"
+    ],
+    "answer": "Create a heat-safety plan and improve shading and ventilation",
+    "explanation": "These actions help reduce exposure to heat, an adaptation measure."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A college wants to cut emissions from electricity use. What is a good first step?",
+    "options": [
+      "Measure energy use and identify efficiency improvements",
+      "Keep lights on in empty rooms",
+      "Disable efficient settings on equipment",
+      "Buy more equipment before assessing demand"
+    ],
+    "answer": "Measure energy use and identify efficiency improvements",
+    "explanation": "An energy assessment identifies practical ways to reduce consumption."
+  },
+  {
+    "topic": "Climate Change",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A local area experiences repeated flooding after intense rainfall. Which response combines climate adaptation with better planning?",
+    "options": [
+      "Protect floodplains and improve drainage using risk assessments",
+      "Build on every low-lying area without assessment",
+      "Block natural drainage channels",
+      "Remove all permeable surfaces"
+    ],
+    "answer": "Protect floodplains and improve drainage using risk assessments",
+    "explanation": "Risk-informed land use and drainage can reduce flood impacts."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which action can help protect pollinators in a garden?",
+    "options": [
+      "Grow diverse flowering native plants",
+      "Spray broad-spectrum pesticide routinely",
+      "Remove all flowering plants",
+      "Cover the entire garden with concrete"
+    ],
+    "answer": "Grow diverse flowering native plants",
+    "explanation": "Suitable flowering plants can provide food and habitat for pollinators."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "What is a wildlife corridor mainly intended to do?",
+    "options": [
+      "Connect separated habitats and support movement",
+      "Prevent all species from moving",
+      "Replace every natural habitat with a road",
+      "Guarantee that no species will decline"
+    ],
+    "answer": "Connect separated habitats and support movement",
+    "explanation": "Habitat corridors can improve connectivity between areas used by wildlife."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "A variety of native plants can provide food and shelter for different organisms.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Different native plants can support different local species."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "An invasive species can sometimes compete with native species for resources.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Some introduced species spread and compete with native organisms, although impacts vary by species and place."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Protecting only one species always protects every other species in its ecosystem.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Conservation often needs to consider habitats, ecological relationships, and many species."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A school has a bare outdoor area and wants to encourage local wildlife. What is a suitable action?",
+    "options": [
+      "Plant suitable native species and provide habitat",
+      "Remove all vegetation each week",
+      "Use unnecessary pesticides",
+      "Seal the whole area with concrete"
+    ],
+    "answer": "Plant suitable native species and provide habitat",
+    "explanation": "Locally suitable vegetation can improve habitat availability."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A new road may divide a wildlife habitat. What should planners consider?",
+    "options": [
+      "Assess ecological impacts and consider safe wildlife crossings or alternative routes",
+      "Assume animals will always adapt",
+      "Remove all nearby vegetation before studying the site",
+      "Ignore habitat connectivity"
+    ],
+    "answer": "Assess ecological impacts and consider safe wildlife crossings or alternative routes",
+    "explanation": "Planning can reduce fragmentation through assessment and suitable connectivity measures."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A campus notices fewer butterflies after removing flowering plants. Which response is most appropriate?",
+    "options": [
+      "Restore a variety of suitable flowering plants",
+      "Remove remaining flowers",
+      "Spray insecticide across the campus",
+      "Replace all plants with pavement"
+    ],
+    "answer": "Restore a variety of suitable flowering plants",
+    "explanation": "Flowering plants can provide food resources for butterflies and other pollinators."
+  },
+  {
+    "topic": "Biodiversity",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A community plans to plant trees to support biodiversity. What should guide species selection?",
+    "options": [
+      "Local ecology, site conditions, and native-species suitability",
+      "Choosing any fast-growing species without assessment",
+      "Selecting only one species regardless of site",
+      "Choosing plants known to become invasive locally"
+    ],
+    "answer": "Local ecology, site conditions, and native-species suitability",
+    "explanation": "Planting plans should suit local conditions and avoid increasing invasive-species risks."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which item should normally be taken to an appropriate e-waste collection point?",
+    "options": [
+      "An unwanted mobile phone",
+      "A clean paper sheet",
+      "A banana peel",
+      "A reusable cloth bag"
+    ],
+    "answer": "An unwanted mobile phone",
+    "explanation": "Electronics require suitable collection and recycling rather than ordinary mixed disposal."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "In the waste hierarchy, which option is generally preferred when practical and safe?",
+    "options": [
+      "Preventing waste at the source",
+      "Disposing of waste in a landfill",
+      "Open burning",
+      "Littering in public spaces"
+    ],
+    "answer": "Preventing waste at the source",
+    "explanation": "Preventing waste avoids the impacts associated with producing and managing discarded materials."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Separating recyclable materials from food waste can help waste processing.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Segregation can reduce contamination and improve recovery where systems accept the materials."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Batteries should be placed in compost because they break down naturally with food scraps.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Batteries need appropriate collection and handling and should not be composted."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Recycling alone can eliminate the need to reduce unnecessary consumption.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Reducing and reusing are also important because recycling has limits and impacts."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "An event produces many disposable cups. What change could reduce waste at the next event?",
+    "options": [
+      "Introduce reusable cups with a return and washing system",
+      "Hand out two extra disposable cups to everyone",
+      "Mix all cups with food scraps",
+      "Encourage attendees to leave cups on the ground"
+    ],
+    "answer": "Introduce reusable cups with a return and washing system",
+    "explanation": "A managed reuse system can reduce single-use cup waste."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A college bin contains clean paper mixed with leftover food. What should the college do?",
+    "options": [
+      "Improve labelled waste segregation and explain it to users",
+      "Mix in more food waste",
+      "Burn the contents in an open area",
+      "Throw the bin into a drain"
+    ],
+    "answer": "Improve labelled waste segregation and explain it to users",
+    "explanation": "Clear sorting guidance can reduce contamination of recyclable paper."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A student has an old phone and a damaged battery. What is the safer disposal choice?",
+    "options": [
+      "Use an authorized e-waste or battery collection channel",
+      "Put it in a compost bin",
+      "Burn it",
+      "Throw it into a lake"
+    ],
+    "answer": "Use an authorized e-waste or battery collection channel",
+    "explanation": "Electronics and batteries need suitable collection and treatment."
+  },
+  {
+    "topic": "Waste Management",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A cafeteria wants to reduce food waste. Which action supports prevention and measurement?",
+    "options": [
+      "Track leftovers and adjust purchasing and portion planning",
+      "Prepare unlimited extra food without tracking",
+      "Mix edible surplus with non-food waste immediately",
+      "Stop recording quantities discarded"
+    ],
+    "answer": "Track leftovers and adjust purchasing and portion planning",
+    "explanation": "Tracking waste helps identify avoidable surplus and improve planning."
+  },
+  {
+    "topic": "Pollution",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which action can help reduce litter entering storm drains?",
+    "options": [
+      "Dispose of waste in appropriate bins",
+      "Sweep litter into the drain",
+      "Dump paint into a street gutter",
+      "Leave plastic bags near waterways"
+    ],
+    "answer": "Dispose of waste in appropriate bins",
+    "explanation": "Waste can be carried from storm drains into streams and other water bodies."
+  },
+  {
+    "topic": "Pollution",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Which measurement is commonly used to communicate short-term outdoor air-pollution conditions to the public?",
+    "options": [
+      "Air Quality Index (AQI)",
+      "Daily shoe size index",
+      "Ocean tide table only",
+      "A building's floor number"
+    ],
+    "answer": "Air Quality Index (AQI)",
+    "explanation": "AQI summarizes air-quality conditions using relevant pollutant measurements under a defined system."
+  },
+  {
+    "topic": "Pollution",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Some pollutants can enter rivers when rain washes waste and chemicals from land into drains.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Runoff can carry pollutants into water bodies."
+  },
+  {
+    "topic": "Pollution",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "If a river has no visible rubbish, its water must be safe to drink.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Microbes and dissolved chemical contaminants may be invisible."
+  },
+  {
+    "topic": "Pollution",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Reducing pollution at its source can prevent some environmental harm before it occurs.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Source reduction can limit the release of harmful substances into the environment."
+  },
+  {
+    "topic": "Pollution",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A student sees people leaving plastic wrappers in a park. What is the most constructive immediate action?",
+    "options": [
+      "Use available bins and encourage responsible disposal",
+      "Throw more wrappers nearby",
+      "Push the wrappers into a water drain",
+      "Burn the wrappers beside visitors"
+    ],
+    "answer": "Use available bins and encourage responsible disposal",
+    "explanation": "Proper disposal helps prevent litter and its spread by wind or water."
+  },
+  {
+    "topic": "Pollution",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "Residents notice a strong chemical smell and discoloured water near an industrial outlet. What should they do?",
+    "options": [
+      "Avoid contact and report it to the appropriate authority",
+      "Taste the water to identify the chemical",
+      "Use the water without checking",
+      "Dump household waste into the same outlet"
+    ],
+    "answer": "Avoid contact and report it to the appropriate authority",
+    "explanation": "Avoiding exposure and reporting suspected pollution is safer than direct investigation."
+  },
+  {
+    "topic": "Pollution",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A school is beside a busy road and wants to reduce students' exposure to traffic pollution. Which step is sensible?",
+    "options": [
+      "Use local air-quality guidance to plan outdoor activities and investigate exposure-reduction measures",
+      "Hold all activities beside idling vehicles",
+      "Encourage buses to idle at the entrance",
+      "Ignore local air-quality alerts"
+    ],
+    "answer": "Use local air-quality guidance to plan outdoor activities and investigate exposure-reduction measures",
+    "explanation": "Using air-quality information can support safer activity planning."
+  },
+  {
+    "topic": "Pollution",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A lake experiences frequent algal blooms after heavy rain. What is a useful source-control approach to investigate?",
+    "options": [
+      "Reduce excess nutrient runoff from farms and developed areas",
+      "Add more fertilizer near the lake",
+      "Dump untreated wastewater into the lake",
+      "Remove all shoreline vegetation without assessment"
+    ],
+    "answer": "Reduce excess nutrient runoff from farms and developed areas",
+    "explanation": "Excess nutrients can contribute to eutrophication and algal blooms."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which technology converts sunlight directly into electricity?",
+    "options": [
+      "Photovoltaic solar panels",
+      "A coal boiler",
+      "A diesel generator",
+      "A petrol engine"
+    ],
+    "answer": "Photovoltaic solar panels",
+    "explanation": "Photovoltaic cells convert light into electrical energy."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "What is one reason a power system may combine different renewable sources?",
+    "options": [
+      "Their output patterns can complement one another",
+      "All sources produce constant power at all times",
+      "It guarantees no need for grid management",
+      "It removes all environmental trade-offs"
+    ],
+    "answer": "Their output patterns can complement one another",
+    "explanation": "Different sources may produce energy under different conditions, although planning and grid management remain important."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Solar panels can generate electricity without burning fuel during operation.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Photovoltaic panels produce electricity from sunlight without on-site fuel combustion."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Wind and solar output can vary with weather and time of day.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Their output depends on conditions such as wind speed and available sunlight."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "A renewable energy project should be assessed for materials, land use, and end-of-life impacts as well as operation.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Considering the full life cycle gives a more complete understanding of impacts."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A school wants to explore rooftop solar power. What should it do first?",
+    "options": [
+      "Assess roof condition, energy demand, costs, and safety",
+      "Install panels without checking the structure",
+      "Ignore electrical safety",
+      "Remove all maintenance access"
+    ],
+    "answer": "Assess roof condition, energy demand, costs, and safety",
+    "explanation": "A feasibility assessment helps establish whether a system is appropriate and safe."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A village has strong wind resources during some seasons and strong sunlight during others. What could planners investigate?",
+    "options": [
+      "A suitable mix of generation sources and storage or grid options",
+      "Relying on one source without assessing its output",
+      "Assuming energy demand never changes",
+      "Avoiding any assessment of local conditions"
+    ],
+    "answer": "A suitable mix of generation sources and storage or grid options",
+    "explanation": "Resource and demand assessment can help planners compare suitable energy-system options."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A household wants to lower its electricity bill before investing in new equipment. What is a reasonable first step?",
+    "options": [
+      "Review energy use and improve efficiency where practical",
+      "Leave appliances on when unused",
+      "Block ventilation around appliances",
+      "Ignore energy consumption"
+    ],
+    "answer": "Review energy use and improve efficiency where practical",
+    "explanation": "Reducing unnecessary consumption can lower energy demand before system sizing."
+  },
+  {
+    "topic": "Renewable Energy",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A town is planning a renewable energy facility near a sensitive habitat. What should be done before finalizing the site?",
+    "options": [
+      "Assess ecological and community impacts and compare alternative sites",
+      "Assume renewable projects have no impacts",
+      "Begin construction before assessment",
+      "Ignore local land and habitat conditions"
+    ],
+    "answer": "Assess ecological and community impacts and compare alternative sites",
+    "explanation": "Renewable energy projects still benefit from careful siting and impact assessment."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "Which device can help reduce water used during handwashing when properly installed?",
+    "options": [
+      "A suitable low-flow tap aerator",
+      "A continuously leaking tap",
+      "An open hose left running",
+      "A pipe with an uncontrolled leak"
+    ],
+    "answer": "A suitable low-flow tap aerator",
+    "explanation": "Appropriate aerators can reduce flow while maintaining useful tap performance."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "What does a water footprint broadly measure?",
+    "options": [
+      "Water used directly and indirectly to produce goods or services",
+      "Only the water in one drinking glass",
+      "Only rainfall in a single hour",
+      "The number of taps in a building"
+    ],
+    "answer": "Water used directly and indirectly to produce goods or services",
+    "explanation": "A water footprint considers water use across activities and supply chains, depending on the method used."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Fixing leaking pipes can reduce avoidable water loss.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Repairing leaks can prevent continuous water loss."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Rainwater should always be used for drinking without treatment or quality checks.",
+    "options": [],
+    "answer": "False",
+    "explanation": "Suitability depends on collection conditions, water quality, and appropriate treatment."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Groundwater use that persistently exceeds recharge can reduce groundwater storage.",
+    "options": [],
+    "answer": "True",
+    "explanation": "Withdrawals above replenishment can cause groundwater levels to decline over time."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "Scenario-based",
+    "difficulty": "Easy",
+    "question": "A dormitory notices taps dripping throughout the day. What is a practical response?",
+    "options": [
+      "Report and repair the leaks promptly",
+      "Ignore the leaks indefinitely",
+      "Increase the water pressure unnecessarily",
+      "Leave more taps running"
+    ],
+    "answer": "Report and repair the leaks promptly",
+    "explanation": "Prompt repairs reduce avoidable water loss."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A garden uses potable tap water for all irrigation, even when suitable harvested rainwater is available. What could be explored?",
+    "options": [
+      "Use collected rainwater for suitable non-potable irrigation with safe system management",
+      "Connect an untreated tank directly to drinking-water taps",
+      "Discard all collected rainwater",
+      "Water paved surfaces instead"
+    ],
+    "answer": "Use collected rainwater for suitable non-potable irrigation with safe system management",
+    "explanation": "Rainwater harvesting can substitute for some non-potable uses when managed appropriately."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "Scenario-based",
+    "difficulty": "Medium",
+    "question": "A college wants to understand where it uses the most water. Which step will help?",
+    "options": [
+      "Measure consumption by area and inspect for leaks",
+      "Guess usage without collecting data",
+      "Remove all meters",
+      "Ignore irrigation and sanitation use"
+    ],
+    "answer": "Measure consumption by area and inspect for leaks",
+    "explanation": "Measurement can identify high-use areas and opportunities for saving water."
+  },
+  {
+    "topic": "Water Conservation",
+    "type": "Scenario-based",
+    "difficulty": "Hard",
+    "question": "A farming area is experiencing a falling groundwater level. Which action could support more sustainable use?",
+    "options": [
+      "Assess extraction and recharge and improve water-use efficiency",
+      "Increase pumping without monitoring",
+      "Leave pumps running when fields are already watered",
+      "Assume groundwater supply is unlimited"
+    ],
+    "answer": "Assess extraction and recharge and improve water-use efficiency",
+    "explanation": "Monitoring and efficiency measures can help address withdrawals that exceed replenishment."
+  },
   {
     "topic": "Sustainable Development",
     "type": "MCQ",
