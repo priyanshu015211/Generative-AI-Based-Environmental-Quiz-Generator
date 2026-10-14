@@ -14,16 +14,18 @@ def load_questions():
     return questions
 
 
-def get_quiz(topic, preferred_level="Easy", count=3, questions=None, rng=None):
-    """Pick quiz items for a topic, preferring the requested difficulty.
+def get_quiz(topic, preferred_level="Easy", count=3, questions=None, rng=None, question_type=None):
+    """Pick questions for one topic and, optionally, one format.
 
+    Questions at the preferred difficulty are selected first; other difficulty
+    levels from the same topic and format fill the remaining requested slots.
     This is static question-bank selection, not generative-AI question creation.
-    If a topic has too few items at one level, remaining questions from that topic
-    are used to ensure a useful demo quiz.
     """
     source = load_questions() if questions is None else list(questions)
     randomizer = rng or random
     topic_items = [q for q in source if q.get("topic") == topic]
+    if question_type is not None:
+        topic_items = [q for q in topic_items if q.get("type") == question_type]
     if not topic_items:
         return []
     preferred = [q for q in topic_items if q.get("difficulty") == preferred_level]
