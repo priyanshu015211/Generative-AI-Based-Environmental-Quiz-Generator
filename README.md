@@ -2,10 +2,10 @@
 
 **Project title:** Generative AI-Based Environmental Quiz Generator
 
-This project version intentionally represents an early milestone, not the complete proposed system. It provides a basic interactive prototype to demonstrate during the first review.
+This project version intentionally represents an early milestone, not the complete proposed system. It provides a polished, responsive-style Streamlit prototype for the first review, with a consistent forest-green theme, structured quiz setup, question cards, and a results/review screen.
 
 ## Working in this version
-- A Streamlit-based quiz interface.
+- A refreshed Streamlit interface with branded header, forest-green visual theme, improved spacing, setup panel, quiz question cards, and results/review screen.
 - Selection from seven environmental topics.
 - Preferred difficulty selection (Easy, Medium, Hard).
 - A local prepared sample question bank containing MCQ, True/False, and scenario-based questions.
